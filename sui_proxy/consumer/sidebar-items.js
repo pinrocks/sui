@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["convert_to_remote_write"],"struct":["NodeMetric","ProtobufDecoder"]};

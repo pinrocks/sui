@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CheckCallArg"],"fn":["default_verifier_config","generate_package_id","missing_unwrapped_msg","new_move_vm","new_session","resolve_and_type_check","run_metered_move_bytecode_verifier","run_metered_move_bytecode_verifier_impl","substitute_package_id"],"struct":["MoveVM"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["var"],"mod":["admin","config","consumer","handlers","metrics","middleware","peers","prom_to_mimir","remote_write"]};
